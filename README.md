@@ -21,7 +21,7 @@ pip install scrapy beautifulsoup4
 ## Usage
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/Fliptoss/web_scraping
 cd YOUR-REPO
 ```
 2. Run the scraper:
